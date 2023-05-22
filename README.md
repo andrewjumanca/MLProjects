@@ -4,7 +4,7 @@ Welcome to my Academic Project Repository! This repository showcases my Machine 
 
 ## Table of Contents
 
-- [Project 1: Title](project1.md)
+- [Project 1: Language Prediction Neural Network](https://github.com/andrewjumanca/MLProjects/blob/main/Neural%20Networks/NN-Language-Detection.md)
 - [Project 2: Title](project2.md)
 - [Project 3: Title](project3.md)
 - ...
@@ -39,10 +39,9 @@ Short description of the project and its objectives.
 Please note that due to the size of some datasets used in these projects, not all datasets are included in the project folders. However, where possible, links to the original source or public datasets are provided within each project's `.md` file. You can refer to those sources to obtain the necessary data for personal replication.
 
 ## License
+WIP
 
-Specify the license of your choice (e.g., MIT License) for others to understand the permissions granted for using your code.
 
 ## Contact
-
-Include your contact information (e.g., email address, LinkedIn profile) if you wish to be contacted regarding collaboration or inquiries about your projects.
+https://www.linkedin.com/in/andrew-jumanca/
 
