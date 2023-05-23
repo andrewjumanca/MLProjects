@@ -5,32 +5,47 @@ Welcome to my Academic Project Repository! This repository showcases my Machine 
 ## Table of Contents
 
 - [Project 1: Language Prediction Neural Network](https://github.com/andrewjumanca/MLProjects/blob/main/Neural%20Networks/NN-Language-Detection.md)
-- [Project 2: Title](project2.md)
-- [Project 3: Title](project3.md)
+- [Project 2: KNN Cancer Classifier, Color Simplifier](https://github.com/andrewjumanca/MLProjects/blob/main/KNN%20Clustering/KNN-Clustering.md)
+- [Project 3: Coming Soon](project3.md)
 - ...
 
 ## Projects
 
-### Project 1: Title
+### Project 1: Language Prediction Neural Network
+### K-Nearest Neighbors (KNN) Project
+
+This project focuses on implementing the K-Nearest Neighbors (KNN) algorithm for breast cancer diagnosis prediction using the Wisconsin Breast Cancer Dataset (WBCD). The dataset includes physical properties of cell nuclei obtained from biopsy samples.
+
+## Features:
+- The dataset contains 569 cases with 10 features representing mean, standard error, and worst values.
+- The target variable is the diagnosis (Malignant or Benign).
+
+## Project Highlights:
+- Exploring the dataset and analyzing feature ranges.
+- Evaluating the accuracy of a naive majority-based prediction model.
+- Comparing KNN performance with normalized and non-normalized features.
+- Visualizing decision boundaries using different feature combinations.
+- Assessing prediction accuracy through cross-validation.
+- Applying feature normalization and Mahalanobis distance metric.
+- Observing the impact of transformations on the decision boundary plot and accuracy.
+- Performing image color reduction using K-means clustering.
+
+## Conclusion:
+This project demonstrates the application of the KNN algorithm for breast cancer diagnosis prediction and explores various feature transformation techniques and metrics. It also includes an image color reduction task using K-means clustering. For more details, refer to the project documentation.
+
+- [Link to project folder](https://github.com/andrewjumanca/MLProjects/blob/main/Neural%20Networks/)
+
+### Project 2: KNN Cancer Classifier, Color Simplifier
 
 Short description of the project and its objectives.
 
-- [Link to project folder](project1/)
-- [Link to project markdown file with code and outputs](project1.md)
+- [Link to project folder](https://github.com/andrewjumanca/MLProjects/blob/main/KNN%20Clustering/)
 
-### Project 2: Title
-
-Short description of the project and its objectives.
-
-- [Link to project folder](project2/)
-- [Link to project markdown file with code and outputs](project2.md)
-
-### Project 3: Title
+### Project 3: Coming Soon
 
 Short description of the project and its objectives.
 
 - [Link to project folder](project3/)
-- [Link to project markdown file with code and outputs](project3.md)
 
 ...
 
